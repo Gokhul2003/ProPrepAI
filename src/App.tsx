@@ -1,9 +1,9 @@
-import React from 'react'
+import { Button } from "@/components/ui/button"
 
 const App = () => {
   return (
     <div className='text-blue-500'>
-      Hii propreai
+      Click here <Button>hii</Button>
     </div>
   )
 }
