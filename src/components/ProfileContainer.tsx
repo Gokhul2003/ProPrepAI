@@ -1,6 +1,6 @@
 import { useAuth, UserButton } from "@clerk/clerk-react";
 import { Loader } from "lucide-react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { Button } from "./ui/button";
 
 const ProfileContainer = () => {
